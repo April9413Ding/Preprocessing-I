@@ -194,7 +194,7 @@ nav a {
   }
 }
 header {
-  background-image: url("/Users/aprilding/Documents/Lambda School/web25-code/Preprocessing-I/assets/cat.jpg");
+  background-image: url("../assets/cat.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center -4rem;
